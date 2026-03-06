@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Theorizing with Large Language Models
+title: Simulating Strategic Interactions with AI Agents
 description: Expanding Management Theory Through AI-Powered Simulations
 ---
 

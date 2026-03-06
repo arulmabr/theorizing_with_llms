@@ -20,7 +20,7 @@ This approach is unique because it allows researchers to unpack mechanisms throu
 
 ```markdown
 @techreport{NBERw33033,
- title = "Theorizing with Large Language Models",
+ title = "Simulating Strategic Interactions with AI Agents",
  author = "Tranchero, Matteo and Brenninkmeijer, Cecil-Francis and Murugan, Arul and Nagaraj, Abhishek",
  institution = "National Bureau of Economic Research",
  type = "Working Paper",
