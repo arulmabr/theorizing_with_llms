@@ -16,7 +16,7 @@ We apply the framework to the exploration-exploitation dilemma. The AI-agent sim
 
 Matteo Tranchero, Cecil-Francis Brenninkmeijer, Arul Murugan, and Abhishek Nagaraj. 2026. "Simulating strategic interactions with AI agents." *Strategic Management Journal*. [https://doi.org/10.1002/smj.70112](https://doi.org/10.1002/smj.70112)
 
-An earlier version circulated as [NBER Working Paper No. 33033](https://www.nber.org/papers/w33033).
+An earlier version, *Theorizing with Large Language Models*, circulated as [NBER Working Paper No. 33033](https://www.nber.org/papers/w33033).
 
 ### BibTeX
 
