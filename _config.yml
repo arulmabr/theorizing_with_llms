@@ -1,9 +1,10 @@
 title: Simulating Strategic Interactions with AI Agents
-description: Expanding Management Theory Through AI-Powered Simulations
+description: Published in Strategic Management Journal
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 baseurl: /theorizing_with_llms/
 code_url: /theorizing_with_llms/code.html
-paper_url: https://www.abhishekn.com/s/GABE_Streetlight_Effect_Sep24.pdf
+paper_url: https://doi.org/10.1002/smj.70112
+pdf_url: https://arulmurugan.me/papers/simulating-strategic-interactions-with-ai-agents-smj-2026.pdf
 contact_url: https://www.abhishekn.com/about-lab

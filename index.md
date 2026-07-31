@@ -2,34 +2,35 @@
 layout: default
 ---
 
- Large Language Models (LLMs) are proving to be a powerful toolkit for management and organizational research. While early work has largely focused on the value of these tools for data processing and replicating survey-based research, the potential of LLMs for theory-building is yet to be recognized. 
- 
- We argue that LLMs can accelerate the pace at which researchers can develop, validate, and extend management theory. We propose a novel framework called Generative AI-Based Experimentation (GABE) that enables researchers to conduct exploratory in silico experiments that can mirror the complexities of real-world organizational settings, featuring multiple agents and strategic interdependencies. 
- 
- ![GABE Framework](images/ai-agent-framework.png)
+**Published open access in the [Strategic Management Journal](https://doi.org/10.1002/smj.70112).**
 
-This approach is unique because it allows researchers to unpack mechanisms through prompting agents to reveal explanations behind strategic decisions and by directly modifying agents' roles, preferences, and capabilities. We apply this framework to a novel theory studying strategic exploration under uncertainty. 
- 
- We show how our framework can not only replicate the results from experiments with human subjects at a much lower cost, but can also be used to extend theory by clarifying boundary conditions and uncovering mechanisms. We conclude that LLMs possess tremendous potential to complement existing methods for theorizing in the social sciences.
+[Read the article](https://doi.org/10.1002/smj.70112) · [Download the publisher PDF](https://arulmurugan.me/papers/simulating-strategic-interactions-with-ai-agents-smj-2026.pdf)
 
-### Listen to this paper as a podcast:
- 
- [AI generated podcast from NotebookLM](https://notebooklm.google.com/notebook/ade43e1a-1487-4d6b-a1f7-7b51011a779e/audio)
+Large Language Models (LLMs) offer strategy researchers a new way to run simulated experiments with multiple agents and strategic interdependencies. We introduce a framework for using LLM-based AI agents as synthetic subjects for rapid, low-cost prototyping of human experiments and for generating hypotheses.
 
-### To Cite this work:
+![Framework for strategy experiments with AI agents](images/ai-agent-framework.png)
 
-```markdown
-@techreport{NBERw33033,
- title = "Simulating Strategic Interactions with AI Agents",
- author = "Tranchero, Matteo and Brenninkmeijer, Cecil-Francis and Murugan, Arul and Nagaraj, Abhishek",
- institution = "National Bureau of Economic Research",
- type = "Working Paper",
- series = "Working Paper Series",
- number = "33033",
- year = "2024",
- month = "October",
- doi = {10.3386/w33033},
- URL = "http://www.nber.org/papers/w33033",
- abstract = {Large Language Models (LLMs) are proving to be a powerful toolkit for management and organizational research. While early work has largely focused on the value of these tools for data processing and replicating survey-based research, the potential of LLMs for theory building is yet to be recognized. We argue that LLMs can accelerate the pace at which researchers can develop, validate, and extend strategic management theory. We propose a novel framework called Generative AI-Based Experimentation (GABE) that enables researchers to conduct exploratory in silico experiments that can mirror the complexities of real-world organizational settings, featuring multiple agents and strategic interdependencies. This approach is unique because it allows researchers to unpack the mechanisms behind results by directly modifying agents’ roles, preferences, and capabilities, and asking them to reveal the explanations behind decisions. We apply this framework to a novel theory studying strategic exploration under uncertainty. We show how our framework can not only replicate the results from experiments with human subjects at a much lower cost, but can also be used to extend theory by clarifying boundary conditions and uncovering mechanisms. We conclude that LLMs possess tremendous potential to complement existing methods for theorizing in strategy and, more broadly, the social sciences.},
+We apply the framework to the exploration-exploitation dilemma. The AI-agent simulations reproduce patterns observed in human experiments; varying the setup then reveals where those patterns weaken or reverse. This makes the framework useful for iterating on research designs, clarifying boundary conditions, and surfacing new hypotheses for subsequent validation.
+
+### Publication
+
+Matteo Tranchero, Cecil-Francis Brenninkmeijer, Arul Murugan, and Abhishek Nagaraj. 2026. "Simulating strategic interactions with AI agents." *Strategic Management Journal*. [https://doi.org/10.1002/smj.70112](https://doi.org/10.1002/smj.70112)
+
+An earlier version circulated as [NBER Working Paper No. 33033](https://www.nber.org/papers/w33033).
+
+### BibTeX
+
+```bibtex
+@article{tranchero2026simulating,
+  title   = {Simulating strategic interactions with AI agents},
+  author  = {Tranchero, Matteo and Brenninkmeijer, Cecil-Francis and Murugan, Arul and Nagaraj, Abhishek},
+  journal = {Strategic Management Journal},
+  year    = {2026},
+  doi     = {10.1002/smj.70112},
+  url     = {https://doi.org/10.1002/smj.70112}
 }
 ```
+
+### Listen to a podcast summary
+
+[AI-generated podcast from NotebookLM](https://notebooklm.google.com/notebook/ade43e1a-1487-4d6b-a1f7-7b51011a779e/audio)
